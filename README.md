@@ -12,7 +12,6 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/arifnoerramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arifnoerramadhan" height="30" width="40" /></a>
 <a href="https://twitter.com/arifnrrmdhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifnrrmdhn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/iifrmdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iifrmdn" height="30" width="40" /></a>
 </p>
