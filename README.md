@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Arif N Ramadhan</h1>
 
-![Screenshot 2023-04-11 03:32:50](https://user-images.githubusercontent.com/91766087/230993079-fd5bed76-7bf8-4f7b-876d-4746615a8a7d.png)
+![gtbhb](https://user-images.githubusercontent.com/91766087/231001177-f2abe7bf-6ce5-41fc-885e-f25cf5a4ac3b.png)
 
 <h3>A Cyber Security Enthusiast from Indonesia</h3>
 
@@ -16,7 +16,7 @@
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arifnrrmdhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifnrrmdhn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iifrmdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iifrmdn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCqIlRGBsx7NBOoeeFIIp4QQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iifrmdn" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
