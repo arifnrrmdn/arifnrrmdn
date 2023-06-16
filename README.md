@@ -3,6 +3,8 @@
 
 <h3>A Java Developer from Indonesia</h3>
 
+- 🏫 Student at **UNIKOM**
+
 - 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **Java, Springboot**
