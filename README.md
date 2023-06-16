@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **Bypass, C, Java, Springboot**
+- 💬 Ask me about **Java, Springboot**
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
