@@ -29,17 +29,15 @@ link : https://www.dicoding.com/certificates/1OP8LL992ZQK
       
 ![0001](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/e52f6ae0-66ae-41ea-ac96-2a87b7beb869)    
 
-![0002](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/f9609f3b-12d9-4862-87ed-2eebd2cc702e)  
-
-![0003](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/430ea2be-cbe7-4dd2-8362-8b20dc88d34d)  
-
 <br />
 <br />
 
-link : https://www.dicoding.com/certificates/L4PQ334K7PO1
-![0001](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/5f349f66-92df-4e3a-b2d9-2bfb3bcb5d5f)
-![0002](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/1304037c-7520-46b3-8eaa-e2313212b9a3)
-![0003](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/38e06d22-a79a-4d5e-8e82-13a03860a7fa)
+link : (https://www.sololearn.com/certificates/CT-D2PRMAIY)
+
+![cert-CT-D2PRMAIY](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/6a8f98ce-916a-4050-9f55-082ff13921f9)
+
+link : https://progate.com/course_certificate/dc78540fqu2abm
+![11259451803f9cd28d01ff82a6bb71a2course_certificate_dc78540fqu2abm](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/5d25ac8c-831c-4fa0-a183-6988f4897713)
 
 
 
