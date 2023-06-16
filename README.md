@@ -3,6 +3,8 @@
 
 <h3>A Java Developer from Indonesia</h3>
 
+<p>Hello, I am an Student experience in alogirthms, data structure, java, oop, generic, lambda, apache maven, build systems, web or desktop app using java.</p>
+
 - 🏫 Student at **UNIKOM**
 
 - 🌱 I’m currently learning **C**
