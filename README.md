@@ -28,25 +28,4 @@
 
 
 
-<h4 align="left">Certificates:</h4>
-<br />
-link : https://www.dicoding.com/certificates/1OP8LL992ZQK
-      
-![0001](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/e52f6ae0-66ae-41ea-ac96-2a87b7beb869)    
-
-<br />
-<br />
-
-link : (https://www.sololearn.com/certificates/CT-D2PRMAIY)
-
-![cert-CT-D2PRMAIY](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/6a8f98ce-916a-4050-9f55-082ff13921f9)
-
-<br />
-<br />
-
-link : https://progate.com/course_certificate/dc78540fqu2abm
-
-![11259451803f9cd28d01ff82a6bb71a2course_certificate_dc78540fqu2abm](https://github.com/arifnrrmdn/arifnrrmdn/assets/91766087/5d25ac8c-831c-4fa0-a183-6988f4897713)
-
-
 
