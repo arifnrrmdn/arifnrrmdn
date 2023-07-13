@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **Java, Springboot, Security**
+- 💬 Ask me about **Java, Springboot, & Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
