@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Java, Springboot, & Security**
+- 💬 Ask me about **Java, Springboot, & Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
