@@ -25,8 +25,8 @@
 | Parameter |    Link      |
 | :-------- | :------------------------- |
 | Instagram | https://www.instagram.com/arifnoerramadhan/ |
-| Linkedin  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/arifnurramadhan) |
-| Youtube   | https://www.youtube.com/@iifrmdn |
+| Linkedin  | https://id.linkedin.com/in/arifnurramadhan/ |
+| Youtube   | https://www.youtube.com/@iifrmdn/ |
 
 
   
