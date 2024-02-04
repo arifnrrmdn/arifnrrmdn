@@ -19,12 +19,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- JAVA  -->
-<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/java.svg" alt="java" width="60" height="60"/> </a> 
-<!-- Spring -->
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/spring.svg" alt="spring" width="60" height="60"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60px height="60px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60px height="60px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60px height="60px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60px height="60px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80px height="60px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60px height="60px">
 </p>
-<!-- <p align="left">  -->
+
+  
 
 
 
