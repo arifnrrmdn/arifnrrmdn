@@ -7,7 +7,7 @@
 
 - 🏫 Student at **UNIKOM**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **Java, Springboot, & Security**
 
