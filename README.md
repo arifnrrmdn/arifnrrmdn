@@ -3,29 +3,31 @@
 
 <h3>A Java Developer from Indonesia</h3>
 
-<p>Hello, I am an Student at UNIKOM experience in alogirthms, data structure, java, oop, generic, lambda, apache maven, build systems, web or desktop app using java.</p>
+<p>Hello, I am Undergraduate Information System Student at UNIKOM experience in alogirthms, java, oop, generic, collection, lambda, apache maven, apache tomcat, servlet, unit test, stream, jdbc, logging, jpa, build systems, desktop app using java.</p>
 
 - 🏫 Student at **UNIKOM**
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Java, Springboot, & Typescript**
+- 💬 Ask me about **Java & Springboot**
+
+
+
+<h3 align="left">Tech Stack:</h3>
+
+**Programming:** Java
+
+**Framework:** Maven, Hibernate, Jakarta Presistence, Spring Boot, Spring Framework, Spring Security
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arifnrrmdhn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifnrrmdhn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCqIlRGBsx7NBOoeeFIIp4QQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iifrmdn" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60px height="60px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60px height="60px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60px height="60px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="60px height="60px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80px height="60px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60px height="60px">
-</p>
+| Parameter |    Link      |
+| :-------- | :------------------------- |
+| Instagram | https://www.instagram.com/arifnoerramadhan/ |
+| Linkedin  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/arifnurramadhan) |
+| Youtube   | https://www.youtube.com/@iifrmdn |
+
 
   
 
