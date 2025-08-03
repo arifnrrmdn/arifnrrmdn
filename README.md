@@ -3,9 +3,7 @@
 
 <!-- <h3>A Java Spring Boot Programmer from Indonesia</h3> -->
 
-<p>Hello, I am Undergraduate Information System Student at UNIKOM experience in alogirthms, java, oop, generic, collection, lambda, apache maven, apache tomcat, servlet, unit test, stream, jdbc, logging, jpa, build systems, desktop app using java.</p>
-
-- 🏫 Student at **UNIKOM**
+<p>Hello, I am Undergraduate Information System Student experience in alogirthms, java, oop, generic, collection, lambda, apache maven, apache tomcat, servlet, unit test, stream, jdbc, logging, jpa, build systems, desktop app using java.</p>
 
 - 🌱 I’m currently learning **Spring Framework**
 
