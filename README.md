@@ -15,7 +15,7 @@
 
 **Programming:** Java
 
-**Framework:** Maven, Hibernate, Jakarta Presistence, Spring Boot, Spring Framework, Spring Security
+**Framework:** Maven, Hibernate, Jakarta Presistence, Spring Boot, Spring Security
 
 
 <h3 align="left">Connect with me:</h3>
