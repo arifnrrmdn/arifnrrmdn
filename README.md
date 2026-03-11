@@ -5,13 +5,12 @@
 
 <p>Experienced Developer with a demonstrated history of working in the information technology and services industry. Skilled in DevSecOps & Odoo ERP Implementor.</p>
 
-- 💬 Ask me about **Odoo ERP, DevSecOps**
-
+💬 Ask me about **Odoo ERP, DevSecOps**
 
 
 <h3 align="left">Tech Stack:</h3>
 
-**Framework:** Odoo, Python, XML, Postgresql, Docker, Portainer
+Odoo, Python, XML, Postgresql, Docker, Portainer
 
 
 <h3 align="left">Connect with me:</h3>
